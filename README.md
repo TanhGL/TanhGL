@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tanh
 - 👀 I’m interested in C++, PYTHON, KALI-LINUX, HTML CSS,..
 - 🌱 20072002
-- 💞️ I’m looking to collaborate on Github in BichTam
+- 💞️ I’m looking to collaborate on Github
 - 📫 
 
 <!---
