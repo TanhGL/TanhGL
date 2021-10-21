@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanh
 - 👀 I’m interested in
-- 🌱 
+- 🌱 So Pai
 - 💞️ I’m looking to collaborate on Github
 - 📫 
 
