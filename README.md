@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tanh
+- 👋 Hi, I’m Tánh
 - 👀 I’m interested in
 - 🌱 https://www.facebook.com/bich.tam.944
 - 💞️ I’m looking to collaborate on Github
