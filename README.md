@@ -2,7 +2,7 @@
 - 👀 I’m interested in
 - 🌱 https://www.facebook.com/
 - 💞️ I’m looking to collaborate on Github
-- 📫 contract now email : ĐH BACH KHOA TPHCM.
+- 📫 contract now email :
 
 <!---
 TanhGL/TanhGL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
