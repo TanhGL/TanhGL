@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tánh
 - 👀 I’m interested in 
-- 🌱 https://www.facebook.com/phantanh1234
+- 🌱 Facebook: https://www.facebook.com/phantanh1234
 - 💞️ I’m looking to collaborate on Github
 - 📫 contract now email : tanhhcmue@gmail.com
 
