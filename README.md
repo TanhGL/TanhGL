@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Tánh
+- 👋 Hi, I’m PNT
 - 👀 I’m interested in 
-- 🌱 Facebook: https://www.facebook.com/phantanh1234
+- 🌱 Facebook: .....
 - 💞️ I’m looking to collaborate on Github
-- 📫 contract now email : tanhhcmue@gmail.com
+- 📫 contract now email : ....
 
 <!---
 TanhGL/TanhGL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
