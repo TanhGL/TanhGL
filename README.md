@@ -1,4 +1,4 @@
-- 👋 Hi, I’m PNT
+- 👋 PHAN NGỌC TÁNH - 46.01.104.163 
 - 👀 I’m interested in 
 - 🌱 Facebook: .....
 - 💞️ I’m looking to collaborate on Github
