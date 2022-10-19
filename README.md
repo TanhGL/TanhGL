@@ -1,8 +1,8 @@
-- 👋 PHAN NGỌC TÁNH - 46.01.104.163 
-- 👀 I’m interested in 
-- 🌱 Facebook: .....
-- 💞️ I’m looking to collaborate on Github
-- 📫 contract now email : ....
+-  TÁNH - 46.01.104.163 
+- 👀 
+- 🌱 
+- 💞️ 
+- 📫 
 
 <!---
 TanhGL/TanhGL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
