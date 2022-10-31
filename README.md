@@ -1,8 +1,6 @@
--  TÁNH - 46.01.104.163 
-- 👀 
-- 🌱 Pleiku,GiaLai, VietNam
-- 💞️ 
-- 📫 
+-  TÁNH 👀 
+- 🌱 Pleiku,GiaLai, VietNam 💞️ 📫 
+
 
 <!---
 TanhGL/TanhGL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
