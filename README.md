@@ -32,7 +32,6 @@
                             
                         </tr>
                         <!-- kết thúc thành viên 1 -->
-                      
 
                          <!-- thành viên 2 LÊ ĐỨC THI -->
                          <tr class="cart__body product__infor">
@@ -78,7 +77,5 @@
                             
                         </tr>
                         <!-- kết thúc thành viên 3 -->
-
-
-
                     </table>
+ </div>
