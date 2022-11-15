@@ -24,7 +24,12 @@
   <tr>
     <td>Lê Đức Thi</td>
     <td>46.01.104.173</td>
-    <td>layout web</td>
+    <td>layout website</td>
+  </tr>
+   <tr>
+    <td>Lê Minh Triệu</td>
+    <td>46.01.104.198</td>
+    <td>...</td>
   </tr>
 </table>
 
