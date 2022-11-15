@@ -3,7 +3,7 @@
 **web**: https://ngoctanh.name.vn/
 
 
-                       <!DOCTYPE html>
+                       
 <html>
 
 <body>
