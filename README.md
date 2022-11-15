@@ -19,12 +19,12 @@
   <tr>
     <td>Phan Ngọc Tánh</td>
     <td>46.01.104.163</td>
-    <td>PHP</td>
+    <td>...</td>
   </tr>
   <tr>
     <td>Lê Đức Thi</td>
     <td>46.01.104.173</td>
-    <td>layout website</td>
+    <td>...</td>
   </tr>
    <tr>
     <td>Lê Minh Triệu</td>
