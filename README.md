@@ -2,40 +2,83 @@
 - 🌱 Pleiku,GiaLai, VietNam 💞️ 📫 
 **web**: https://ngoctanh.name.vn/
 
-<!-- nhung fb share -->
-<html>
-<head>
-<title>Your Website Title</title>
-<!-- You can use Open Graph tags to customize link previews.
-Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
-<meta property="og:url"           content="https://www.your-domain.com/your-page.html" />
-<meta property="og:type"          content="website" />
-<meta property="og:title"         content="Your Website Title" />
-<meta property="og:description"   content="Your description" />
-<meta property="og:image"         content="https://www.your-domain.com/path/image.jpg" />
-</head>
-<body>
+ <div class="row sm-gutter mt-32">
+                    <table class="products__list">
+                        <tr class="cart__header">
+                            <td class="cart__header-name">STT</td>
+                            <td class="cart__header-name">Họ và tên</td>
+                            <td class="cart__header-name">MSSV </td>
+                            <td class="cart__header-name">Năm</td>
+                            <td class="cart__header-name">Quản trị</td>
+                        </tr>
+                        <!-- thành viên 1 - PHAN NGỌC TÁNH-->
+                        <tr class="cart__body product__infor">
+                            <td class="product__img">
+                              1
+                            </td>
+                            <td class="product__name">
+                               Phan Ngọc Tánh
+                            </td>
+                            <td class="product__price">
+                                46.01.104.163
+                            </td>
+                           
+                            <td class="product__quatity">
+                                2020-2024
+                            </td>
+                            <td class="product__quatity">
+                                Admin
+                            </td>
+                            
+                        </tr>
+                        <!-- kết thúc thành viên 1 -->
+                      
 
-<!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) return;
-js = d.createElement(s); js.id = id;
-js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+                         <!-- thành viên 2 LÊ ĐỨC THI -->
+                         <tr class="cart__body product__infor">
+                            <td class="product__img">
+                              2
+                            </td>
+                            <td class="product__name">
+                               Lê Đức Thi
+                            </td>
+                            <td class="product__price">
+                                46.01.104.173
+                            </td>
+                           
+                            <td class="product__quatity">
+                                2020-2024
+                            </td>
+                            <td class="product__quatity">
+                                Admin
+                            </td>
+                            
+                        </tr>
+                        <!-- kết thúc thành viên 2 LDT -->
 
-<!-- Your share button code -->
-<div class="fb-share-button" 
-data-href="https://www.your-domain.com/your-page.html" 
-data-layout="button_count">
-</div>
-</body>
-</html>
 
-<!-- kt nhung share fb -->
-<!---
-TanhGL/TanhGL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                         <!-- thành viên 3 -->
+                         <tr class="cart__body product__infor">
+                            <td class="product__img">
+                              3
+                            </td>
+                            <td class="product__name">
+                               Lê Minh Triệu
+                            </td>
+                            <td class="product__price">
+                                46.01.104.198
+                            </td>
+                           
+                            <td class="product__quatity">
+                                2020-2024
+                            </td>
+                            <td class="product__quatity">
+                                Admin
+                            </td>
+                            
+                        </tr>
+                        <!-- kết thúc thành viên 3 -->
+
+
+
+                    </table>
