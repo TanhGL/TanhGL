@@ -18,13 +18,13 @@
   </tr>
   <tr>
     <td>Phan Ngọc Tánh</td>
-    <td>Lê Đức Thi</td>
-    <td>Lê Minh Triệu</td>
+    <td>46.01.104.163</td>
+    <td>PHP</td>
   </tr>
   <tr>
-    <td>46.01.104.163</td>
+    <td>Lê Đức Thi</td>
     <td>46.01.104.173</td>
-    <td>46.01.104.198</td>
+    <td>layout web</td>
   </tr>
 </table>
 
