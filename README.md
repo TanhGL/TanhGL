@@ -2,8 +2,7 @@
 - 🌱 Pleiku,GiaLai, VietNam 💞️ 📫 
 **web**: https://ngoctanh.name.vn/
 
- <div class="row sm-gutter mt-32">
-                    <table class="products__list">
+
                         <tr class="cart__header">
                             <td class="cart__header-name">STT</td>
                             <td class="cart__header-name">Họ và tên</td>
@@ -64,7 +63,7 @@
                             <td class="product__name">
                                Lê Minh Triệu
                             </td>
-                            <td class="product__price">
+                            <td>
                                 46.01.104.198
                             </td>
                            
