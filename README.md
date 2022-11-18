@@ -34,8 +34,8 @@
 </table>
   ![Visitor Count](https://profile-counter.glitch.me/TanhGL/count.svg)
 </body>
-  HTML : <img src="https://visitor-badge.feriirawann.repl.co?username=YOUR_USERNAME&repo=YOUR_REPO_ID" alt="Visitor Badge" />
-Markdown : ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=YOUR_USERNAME&repo=YOUR_REPO_ID)
+  HTML : <img src="https://visitor-badge.feriirawann.repl.co?username=TanhGL&repo=YOUR_REPO_ID" alt="Visitor Badge" />
+Markdown : ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=TanhGL&repo=YOUR_REPO_ID)
 </html>
 
 
