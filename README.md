@@ -32,7 +32,9 @@
     <td>...</td>
   </tr>
 </table>
+  ![Visitor Count](https://profile-counter.glitch.me/TanhGL/count.svg)
 </body>
+  
 </html>
-![Visitor Count](https://profile-counter.glitch.me/TanhGL/count.svg)
+
 
