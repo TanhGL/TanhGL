@@ -1,6 +1,6 @@
 -   👀 
 - 🌱 Pleiku,GiaLai, VietNam 💞️ 📫 
-**web**: https://ngoctanh.name.vn/
+# web: https://ngoctanh.name.vn/
 
 
                        
