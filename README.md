@@ -8,7 +8,7 @@
 
 <body>
 
-<h2>Thành viên công tác website</h2>
+<h2>Thành viên đóng góp</h2>
 
 <table style="width:100%">
   <tr>
