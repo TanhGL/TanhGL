@@ -17,27 +17,25 @@
     <th>Chức năng</th>
   </tr>
   <tr>
-    <td>Phan Ngọc Tánh</td>
-    <td>46.01.104.163</td>
+    <td>...</td>
+    <td>...</td>
     <td>...</td>
   </tr>
   <tr>
-    <td>Lê Đức Thi</td>
-    <td>46.01.104.173</td>
+    <td>...</td>
+    <td>...</td>
     <td>...</td>
   </tr>
    <tr>
-    <td>Lê Minh Triệu</td>
-    <td>46.01.104.198</td>
+    <td>...</td>
+    <td>...</td>
     <td>...</td>
   </tr>
 </table>
-  ![Visitor Count](https://profile-counter.glitch.me/TanhGL/count.svg)
+
 </body>
  
 
 </html>
-
- HTML : <img src="https://visitor-badge.feriirawann.repl.co?username=TanhGL alt="Visitor Badge" />
 
 
