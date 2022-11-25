@@ -40,9 +40,13 @@
 
 <hr>
 
-[//]: https://github-readme-stats.vercel.app/api?username=TanhGL&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<img align="right" src="https://github-readme-stats-tanhgl.vercel.app/api?username=TanhGL&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating" alt="TanhGL's GitHub Stats">
+<a href=#><img src="contributions.svg"></a>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
 
 
