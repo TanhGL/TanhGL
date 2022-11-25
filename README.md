@@ -1,5 +1,5 @@
 <p align="center"> 
-  Visitor count<br>
+ Tổng lượt truy cập TanhGL<br>
   <img src="https://profile-counter.glitch.me/TanhGL/count.svg" />
 </p>
 
