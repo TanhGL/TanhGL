@@ -15,7 +15,7 @@
   <tr>
     <th>Họ và tên</th>
     <th>MSSV</th>
-    <th>Chức năng</th>
+    
   </tr>
   <tr>
     <td>...</td>
