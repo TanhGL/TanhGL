@@ -1,12 +1,9 @@
 
 - 🦈 Docker 
 - 📦 JavaScript
-- 👀 PHP/PHP laravel
+-  PHP/PHP laravel
 - 📣 - 🐍 - 💬 - 📷- 🎬 - 🎨- 📱
-# : https://ngoctanh.name.vn/
-
-
-                       
+                     
 <html>
 
 <body>
