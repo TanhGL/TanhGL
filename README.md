@@ -19,15 +19,10 @@
   </tr>
   <tr>
     <td>Phan Ngọc Tánh</td>
-
+    <td>46.01.104.163</td>
    
   </tr>
- 
-   <tr>
-    <td>46.01.104.163</td>
 
-  
-  </tr>
 </table>
 
 
