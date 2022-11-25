@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/TanhGL/count.svg" />
 </p>
 
-- 📣 - 🐍 - 💬  PHP/PHP laravel- 📷- 🎬 - 🎨- 📱
+- 📣  PHP/PHP laravel
                      
 <html>
 
@@ -18,8 +18,8 @@
     
   </tr>
   <tr>
-    <td>Phan Ngọc Tánh</td>
-    <td>46.01.104.163</td>
+    <td><strong>Phan Ngọc Tánh</strong></td>
+    <td><strong>46.01.104.163</strong></td>
    
   </tr>
 
