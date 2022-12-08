@@ -9,7 +9,7 @@
 
 <body>
 
-<h2>Thành viên đóng góp</h2>
+<h2>Thành viên</h2>
 
 <table style="width:100%">
   <tr>
