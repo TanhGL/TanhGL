@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/TanhGL/count.svg" />
 </p>
 
-- 📣  PHP/PHP laravel
+- 📣
                      
 <html>
 
