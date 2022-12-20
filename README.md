@@ -11,34 +11,33 @@
 
 This project exists thanks to all the people who [contribute.](https://opencollective.com/sous-chefs/contributors.svg?width=890&button=false)
 
+<table style="width:100%">
+  <tr>
+    <th>FullName</th>
+    <th>CCP+ID</th>
+    
+  </tr>
+  <tr>
+    <td><strong>Phan Ngọc Tánh </strong></td>
+    <td><strong></strong>46</td>
+  </tr>
+ <tr>
+    <td><strong>Lê Đức Thi </strong></td>
+    <td><strong></strong>46</td>
+  </tr>
+ 
+  <tr>
+    <td><strong>Lê Triệu </strong></td>
+    <td><strong></strong>46</td>
+  </tr>
+</table>
+
+
 ### Backers
 
 Thank you to all our backers!
 
 ![https://opencollective.com/sous-chefs#backers](https://opencollective.com/sous-chefs/backers.svg?width=600&avatarHeight=40)
-
-
-
-<html>
-
-<body>
-
-<h2>Thành viên</h2>
-
-<table style="width:100%">
-  <tr>
-    <th>Họ và tên</th>
-    <th>MSSV</th>
-    
-  </tr>
-  <tr>
-    <td><strong></strong></td>
-    <td><strong></strong></td>
-   
-  </tr>
-
-</table>
-
 
 
 
