@@ -31,6 +31,7 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 ![https://opencollective.com/sous-chefs/sponsor/7/website](https://opencollective.com/sous-chefs/sponsor/7/avatar.svg?avatarHeight=100)
 ![https://opencollective.com/sous-chefs/sponsor/8/website](https://opencollective.com/sous-chefs/sponsor/8/avatar.svg?avatarHeight=100)
 ![https://opencollective.com/sous-chefs/sponsor/9/website](https://opencollective.com/sous-chefs/sponsor/9/avatar.svg?avatarHeight=100)
+https://avatars.githubusercontent.com/u/86475978?v=4
 <html>
 
 <body>
