@@ -22,7 +22,7 @@ This project exists thanks to all the people who [contribute.](https://opencolle
   </tr>
   <tr>
     <td><strong>Phan Ngọc Tánh </strong></td>
-    <td><strong></strong>46</td>
+    <td><strong></strong></td>
   </tr>
  <tr>
     <td><strong>Lê Đức Thi </strong></td>
