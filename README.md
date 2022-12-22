@@ -17,7 +17,7 @@ This project exists thanks to all the people who [contribute.](https://opencolle
 <table style="width:100%">
   <tr>
     <th>FullName</th>
-    <th>CCP+ID</th>
+    <th></th>
     
   </tr>
   <tr>
