@@ -1,6 +1,5 @@
 #MM
-- ZALO: 0989801720 
-- GMAIL: tanhngoc4@gmail.com
+
 <p align="center"> 
  Tổng lượt truy cập<br>
   <img src="https://profile-counter.glitch.me/TanhGL/count.svg" />
