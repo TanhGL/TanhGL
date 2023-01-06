@@ -1,5 +1,7 @@
 #MM
 
+# Truy cập ShopTTT để nhận ngay ưu đãi giá rẻ https://shopttt.42web.io/
+
 <p align="center"> 
  Tổng lượt truy cập<br>
   <img src="https://profile-counter.glitch.me/TanhGL/count.svg" />
