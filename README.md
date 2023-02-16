@@ -1,6 +1,7 @@
 #MM
-Cài đặt Shynet 
-Install Shynet
+# Cài đặt Shynet
+https://www.youtube.com/watch?v=0CcaNxhohxw 
+# Install Shynet
 https://www.youtube.com/watch?v=0CcaNxhohxw
 # Truy cập ShopTTT để nhận ngay ưu đãi giá rẻ https://shopttt.42web.io/
 
