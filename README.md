@@ -20,16 +20,16 @@ This project exists thanks to all the people who [contribute.](https://opencolle
     
   </tr>
   <tr>
-    <td><strong>Phan Ngọc Tánh </strong></td>
+    <td><strong>Tánh </strong></td>
     <td><strong></strong></td>
   </tr>
  <tr>
-    <td><strong>Lê Đức Thi </strong></td>
+    <td><strong> Thi </strong></td>
     <td><strong></strong></td>
   </tr>
  
   <tr>
-    <td><strong>Lê Triệu </strong></td>
+    <td><strong>Triệu </strong></td>
     <td><strong></strong></td>
   </tr>
 </table>
