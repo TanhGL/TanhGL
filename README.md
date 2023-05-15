@@ -13,26 +13,6 @@
 
 This project exists thanks to all the people who [contribute.](https://opencollective.com/sous-chefs/contributors.svg?width=890&button=false)
 
-<table style="width:100%">
-  <tr>
-    <th>FullName</th>
-    <th></th>
-    
-  </tr>
-  <tr>
-    <td><strong>Tánh </strong></td>
-    <td><strong></strong></td>
-  </tr>
- <tr>
-    <td><strong> Thi </strong></td>
-    <td><strong></strong></td>
-  </tr>
- 
-  <tr>
-    <td><strong>Triệu </strong></td>
-    <td><strong></strong></td>
-  </tr>
-</table>
 
 
 ### Backers
