@@ -13,10 +13,6 @@ https://stackoverflow.com/questions/76445588/how-to-deploy-laravel-using-mysql-t
 
 
 
-<a href=#><img src="contributions.svg"></a>
-
-
-
 
 
 - **Variable configuration**
