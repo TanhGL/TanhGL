@@ -17,10 +17,7 @@ https://stackoverflow.com/questions/76445588/how-to-deploy-laravel-using-mysql-t
 
 
 
-ask stackover
-- **deploy laravel in render** ( using database mysql ) errors
 
-- I use github repository *https://github.com/TanhGL/tanhpn_blog-railway.app*
 
 - **Variable configuration**
 
@@ -33,8 +30,8 @@ ask stackover
   DB_HOST=containers-us-west-129.railway.app
   DB_PORT=6776 DB_DATABASE=railway
   DB_USERNAME=root
-  DB_PASSWORD=t92HyZDL0Ewhi0th9kMg
+  DB_PASSWORD=
   NIXPACKS_BUILD_CMD=composer install && php artisan key:generate && php artisan migrate && php artisan db:seed  && php artisan storage:link && php artisan passport:keys && php artisan optimize && php artisan config:clear && php artisan cache:clear && php artisan migrate --force && npm install bower && ./node_modules/bower/bin/bower install && npm run prod
   ```
 
-- I tried many ways but all deploy error
+
