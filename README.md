@@ -1,5 +1,6 @@
 - 📣 Tham gia diễn đàn tại đây: 
 https://tanhpn.x10.mx/public </br>
+<img src="https://github.com/TanhGL/1/blob/main/sign%20up%20-%20tanh.png?raw=true"/>
 <p align="center"> 
  Tổng lượt truy cập<br>
   <img src="https://profile-counter.glitch.me/TanhGL/count.svg" />
