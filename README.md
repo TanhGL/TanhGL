@@ -1,9 +1,4 @@
-- 📣 Tham gia diễn đàn tại đây: 
-https://tanhpn.x10.mx/public </br>
-http://tanh.c1.biz </br>
-http://online-tanh-exam.rf.gd </br>
-http://tanh.rf.gd </br>
-https://tanh.22web.org/ </br>
+
 <img src="https://github.com/TanhGL/1/blob/main/sign%20up%20-%20tanh.png?raw=true"/>
 <p align="center"> 
  Tổng lượt truy cập<br>
