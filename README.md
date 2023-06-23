@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on **HCM CITY UNIVERSITY OF EDUCATION**
+- 📚 I’m currently working on **HCM CITY UNIVERSITY OF EDUCATION**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TanhGL/](https://github.com/TanhGL/)
 
