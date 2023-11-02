@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **tanhngoc4@gmail.com**
   
--  ⚡ My Channel Youtube **Thanks for visiting**
+-  📺 My Channel Youtube **(https://www.youtube.com/channel/UCWrHk90S0Bkw-T1_gd4_7vg?sub_confirmation=1)**
 
 - ⚡ Fun fact **Thanks for visiting**
 
