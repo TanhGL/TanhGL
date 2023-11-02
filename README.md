@@ -21,6 +21,8 @@
 - 💬 Ask me about **Something I KNOW**
 
 - 📫 How to reach me **tanhngoc4@gmail.com**
+  
+-  ⚡ My Channel Youtube **Thanks for visiting**
 
 - ⚡ Fun fact **Thanks for visiting**
 
