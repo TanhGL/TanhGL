@@ -14,17 +14,10 @@
 
 
 
-- 📚 I’m currently working on **HCM CITY UNIVERSITY OF EDUCATION**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TanhGL/](https://github.com/TanhGL/)
 
-- 💬 Ask me about **Something I KNOW**
 
-- 📫 How to reach me **tanhngoc4@gmail.com**
-  
--  📺 My Channel Youtube **(https://www.youtube.com/channel/UCWrHk90S0Bkw-T1_gd4_7vg?sub_confirmation=1)**
 
-- ⚡ Fun fact **Thanks for visiting**
 
 <h3 align="left">ABOUT ME </h3>
 <p align="left">
@@ -46,11 +39,15 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
 ## I'm a Software Student at the HCMUE
-
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack, MVC Project etc.
+- 📚 I’m currently working on **HCM CITY UNIVERSITY OF EDUCATION**
+- 👨‍💻 All of my projects are available at [https://github.com/TanhGL/](https://github.com/TanhGL/)
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
 - 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.
-- ⚡ Fun facts: Open and friendly. I love to play the guitar & code.
+- 💬 Ask me about **Something I KNOW**
+- 📫 How to reach me **tanhngoc4@gmail.com**
+- 📺 My Channel Youtube **(https://www.youtube.com/channel/UCWrHk90S0Bkw-T1_gd4_7vg?sub_confirmation=1)**
+- ⚡ Fun fact **Thanks for visiting**
+
 
 ---
 
