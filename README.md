@@ -1,13 +1,6 @@
 
 
-<h2 align="center">Phan Ngọc Tánh </h2>
 
-<p align="center"> 
- Tổng lượt truy cập<br>
-  <img src="https://profile-counter.glitch.me/TanhGL/count.svg" />
-</p>
-
-      
 
 
 
@@ -82,3 +75,9 @@ Credits: [Phan Ngọc Tánh](https://github.com/TanhGL/)
 
 Last Edited on: 29/06/2020
 
+<p align="center"> 
+ Tổng lượt truy cập<br>
+  <img src="https://profile-counter.glitch.me/TanhGL/count.svg" />
+</p>
+
+      
