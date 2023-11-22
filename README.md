@@ -24,7 +24,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
-## I'm a Software Student at the HCMUE
+## I'm a Software Student at the HCMC
 - 📚 I’m currently working on **HCM CITY UNIVERSITY OF EDUCATION**
 - 👨‍💻 All of my projects are available at [https://github.com/TanhGL/](https://github.com/TanhGL/)
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
