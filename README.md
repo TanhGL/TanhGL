@@ -30,7 +30,7 @@
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
 - 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.
 - 💬 Ask me about **Something I KNOW**
-- 📫 How to reach me **tanhngoc4@gmail.com** or 4601104163@student.hcmue.edu.vn or tanhpn@lecturer.hcmus.edu.vn
+- 📫 How to reach me **tanhngoc4@gmail.com** 
 - 📺 My Channel Youtube **(https://www.youtube.com/channel/UCWrHk90S0Bkw-T1_gd4_7vg?sub_confirmation=1)**
 - ⚡ Fun fact **Thanks for visiting**
 
