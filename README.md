@@ -7,14 +7,6 @@
 
 
 
-Tool reactjs
-
-[tại đây](https://github.com/TanhGL/shopping_cart_spring_boot_java/raw/main/p.n.tanh-tool.rar)
-
-
-<h3 align="left">ABOUT ME </h3>
-<p align="left">
-</p>
 
 
 
