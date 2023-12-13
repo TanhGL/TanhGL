@@ -19,7 +19,7 @@ Tool reactjs
 
 
 <div align="center">
-<h1> 𝐇i 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h1>
+<h1> 𝐇i 𝐭𝐡𝐞𝐫e </h1>
 </div>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
@@ -37,7 +37,6 @@ Tool reactjs
 
 ---
 
-## Project for learning
 
 
 ---
