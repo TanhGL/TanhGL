@@ -16,13 +16,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
-## I'm a Software Student at the HCMC
+## I'm a:
 - 📚 I’m currently working on 
-- 👨‍💻 All of my projects are available at [https://github.com/TanhGL/](https://github.com/TanhGL/)
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
 - 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.
 - 💬 Ask me about **Something I KNOW**
-- 📫 How to reach me **tanhngoc4@gmail.com** 
+- 📫, 👨‍💻 
 
 - ⚡ Fun fact **Thanks for visiting**
 
