@@ -15,7 +15,7 @@
 </div>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
-
+<!--
 ## I'm a:
 - 📚 I’m currently working on 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **Thanks for visiting**
 
-
+-->
 ---
 
 
